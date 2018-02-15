@@ -1,3 +1,3 @@
-# Projeto do Curso de Otimização de Performance Web do Alura
+# Aviso
 
-Clone o projeto e faça `npm install` para instalar as dependências.
+Esse projeto foi criado para anotações e acompanhamento do curso, não tem intenção de ser funcional
